@@ -1,4 +1,16 @@
 aid: thefind-meta
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/thefind-meta.png
 name: TheFind (Meta)
 description: 'TheFind (Meta) is a company surfaced as a portfolio company of bain-capital-ventures and
   added to the API Evangelist network as a stub for enrichment. Sector: commerce. This profile is a lead
@@ -10,15 +22,30 @@ x-backed-by:
 - bain-capital-ventures
 x-tier: stub
 x-tier-reason: portfolio-lead
+x-status: defunct
+x-status-detail: 'TheFind was a product/shopping search engine acquired by Facebook (Meta)
+  in 2015 and folded into Facebook. As of 2026-07-21 the domain thefind.com resolves to
+  a Facebook IP (31.13.71.1) and 301-redirects to https://www.facebook.com/; www.thefind.com
+  no longer resolves. No independent developer portal, documentation, or API surface exists.'
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
 - Commerce
+- Shopping Search
+- Ecommerce
+- Product Discovery
+- Acquired
+- Meta
 apis: []
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-21'
+  status: nochange
+  artifacts_added: 0
+  pass: local-v1
