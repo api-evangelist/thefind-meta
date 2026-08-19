@@ -27,7 +27,7 @@ x-status-detail: 'TheFind was a product/shopping search engine acquired by Faceb
   in 2015 and folded into Facebook. As of 2026-07-21 the domain thefind.com resolves to
   a Facebook IP (31.13.71.1) and 301-redirects to https://www.facebook.com/; www.thefind.com
   no longer resolves. No independent developer portal, documentation, or API surface exists.'
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-21'
 tags:
