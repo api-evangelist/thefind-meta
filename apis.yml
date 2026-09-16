@@ -40,7 +40,7 @@ x-status-detail: TheFind was a product/shopping search engine acquired by Facebo
   portal, documentation, or API surface exists.
 specificationVersion: '0.23'
 created: '2026-07-17'
-modified: '2026-09-15'
+modified: '2026-09-16'
 tags:
 - Company
 - Commerce
@@ -49,6 +49,7 @@ tags:
 - Product Discovery
 - Acquired
 - Meta
+- Defunct
 tags_raw:
 - Company
 - Commerce
@@ -57,6 +58,7 @@ tags_raw:
 - Product Discovery
 - Acquired
 - Meta
+- Defunct
 apis: []
 maintainers:
 - FN: Kin Lane
